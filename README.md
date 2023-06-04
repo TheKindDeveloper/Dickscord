@@ -11,6 +11,10 @@ pip3 install Dickscord
   - Colored Text 🎉
   - Discord Tools 🎉
 
+You Can also Use like:
+``->, (#), ($), (-), (!), (~), (/), (*), [+], [-], [>], (>)``
+Everything Shows in different Colours
+
 # Example #1 🔥
 
 ```python
