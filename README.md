@@ -7,6 +7,6 @@
 pip3 install Dizcord
 ```
 
-## FEATURES 
+## Features
   - Colored Text 🎉
   - Discord Tools 🎉
