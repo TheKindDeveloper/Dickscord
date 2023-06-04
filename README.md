@@ -12,3 +12,9 @@ pip3 install Dickscord
   - Discord Tools 🎉
 
 # Examples 🔥
+
+```python
+from Dickscord import Style
+
+Style.print(f"(+): Hey this is Dickscord!")
+```
