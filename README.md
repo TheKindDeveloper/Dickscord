@@ -18,3 +18,5 @@ from Dickscord import Style
 
 Style.print(f"(+): Hey this is Dickscord!")
 ```
+
+> Output
