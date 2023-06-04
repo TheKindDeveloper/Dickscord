@@ -1,5 +1,5 @@
 <h1 align="center">Dickscord</h1>
-<br>
+
 ![54703d067a7cfe7039ef9cd096b92aee](https://github.com/TheKindDeveloper/Dickscord-Python-Package/assets/129861526/ad873882-262d-498a-b3ca-aee91ba5958c)
 
 <p>
