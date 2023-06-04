@@ -11,7 +11,7 @@ pip3 install Dickscord
   - Colored Text 🎉
   - Discord Tools 🎉
 
-# Examples 🔥
+# Example #1 🔥
 
 ```python
 from Dickscord import Style
@@ -19,5 +19,5 @@ from Dickscord import Style
 Style.print(f"(+): Hey this is Dickscord!")
 ```
 
-# Output
+# Output ⚡
 ![image](https://github.com/TheKindDeveloper/Dickscord-Python-Package/assets/129861526/94cfd6b7-5e34-4dd8-884c-e4791709bd6a)
