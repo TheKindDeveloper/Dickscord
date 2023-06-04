@@ -21,3 +21,15 @@ Style.print(f"(+): Hey this is Dickscord!")
 
 # Output ⚡
 ![image](https://github.com/TheKindDeveloper/Dickscord-Python-Package/assets/129861526/94cfd6b7-5e34-4dd8-884c-e4791709bd6a)
+
+# Example #2 ⭐
+
+```python
+from Dickscord import Style, Dickcord
+
+Style.input(f"(#): You're about to Check all Tokens in Your tokens file!")
+Dickcord.checktokens('tokens.txt')
+```
+
+# Output ⚡
+![image](https://github.com/TheKindDeveloper/Dickscord-Python-Package/assets/129861526/0d7ab93b-058e-4480-ac65-471c885006de)
