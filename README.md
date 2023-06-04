@@ -1,12 +1,14 @@
-<h1 align="center">Dizcord</h1>
+<h1 align="center">Dickscord</h1>
 <br>
 
 ## Install ✨
 
 ```sh
-pip3 install Dizcord
+pip3 install Dickscord
 ```
 
 ## Features
   - Colored Text 🎉
   - Discord Tools 🎉
+
+# Examples 🔥
