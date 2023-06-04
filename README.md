@@ -23,6 +23,7 @@ Style.print(f"(+): Hey this is Dickscord!")
 ![image](https://github.com/TheKindDeveloper/Dickscord-Python-Package/assets/129861526/94cfd6b7-5e34-4dd8-884c-e4791709bd6a)
 
 # Example #2 ⭐
+<br>
 
 ```python
 from Dickscord import Style, Dickcord
