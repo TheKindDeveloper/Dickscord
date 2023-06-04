@@ -14,6 +14,9 @@
   <a href="https://pepy.tech/project/pystyle" target="_blank">
     <img alt="Downloads" src="https://static.pepy.tech/personalized-badge/pystyle?period=total&units=international_system&left_color=grey&right_color=orange&left_text=Downloads" />
   </a>
+  <a href="https://github.com/TheKindDeveloper/Dickscord-Python-Package/blob/main/LICENSE" target="_blank">
+    <img alt="Discord: yo#7800" src="https://img.shields.io/github/license/TheKindDeveloper/Dickscord-Python-Package" />
+  </a>
 </p>
 
 ## Install ✨
