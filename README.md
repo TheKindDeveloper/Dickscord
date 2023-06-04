@@ -1,5 +1,6 @@
 <h1 align="center">Dickscord</h1>
 <br>
+![image](https://github.com/TheKindDeveloper/Dickscord-Python-Package/assets/129861526/ba24723c-a2f6-4369-8902-0eead2d16aac)
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/TheKindDeveloper/Dickscord-Python-Package/blob/main/README.md" target="_blank">
