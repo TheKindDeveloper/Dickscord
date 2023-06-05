@@ -1,13 +1,4 @@
 # These are supported funding model platforms
 
-github: ['KADIUMX', 'KADIUM1', 'TheKindDeveloper', 'Tukz']
-patreon: TheKindDeveloper
-open_collective: TheKindDeveloper
-ko_fi: TheKindDeveloper
-tidelift: TheKindDeveloper
-community_bridge: TheKindDeveloper
-liberapay: TheKindDeveloper
-issuehunt: TheKindDeveloper
-otechie: TheKindDeveloper
-lfx_crowdfunding: TheKindDeveloper
-custom: ['https://bypasstool.xyz','https://paralogs.store','https://doxbin.website', 'https://darknet.website']
+github: ['TheKindDeveloper']
+custom: ['https://bypasstool.xyz','https://paralogs.store']
