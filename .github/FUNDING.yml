@@ -1,0 +1,13 @@
+# These are supported funding model platforms
+
+github: ['KADIUMX', 'KADIUM1', 'TheKindDeveloper', 'Tukz']
+patreon: user71
+open_collective: user71
+ko_fi: user71
+tidelift: npm/babel
+community_bridge: cloud-foundry
+liberapay: cloud-foundry
+issuehunt: cloud-foundry
+otechie: cloud-foundry
+lfx_crowdfunding: cloud-foundry
+custom: ['https://patreon.com','https://ko_fi.com','https://issuehunt.com', 'https://otechie.com']
