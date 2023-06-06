@@ -1,6 +1,5 @@
 __dev__ = 'Made by KADIUM | yo#7800'
 __website__ = 'https://bypasstool.xyz (DISCONTINUED)'
-# This uses the source from bypasstool, so dont accuse of skidding since this is also made by the bypass creator
 
 from colorama import *
 import colorama
