@@ -88,4 +88,14 @@ Dickcord.webhook(
 ```
 ![image](https://github.com/TheKindDeveloper/Dickscord/assets/129861526/95b989d4-a858-4cd2-aacd-fa9d6c8b0c33)
 
+# Last Example 😣 (u can do alot more)
+```python
+from Dickscord import *
+
+Dickcord.webhook(
+    option="delete",
+    url="https://discord.com/api/webhooks/1139650309124280460/O4sEWWx111muKs5aZtOMER682F_9y15ReP-_c6RwbA_G1SozgHquS8fBCXHsea1QWVKG",
+)
+```
+![image](https://github.com/TheKindDeveloper/Dickscord/assets/129861526/b110c0cc-f03a-4b24-a6fe-f2c2b7380021)
 
