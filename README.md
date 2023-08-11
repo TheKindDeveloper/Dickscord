@@ -24,7 +24,7 @@
 ## Install ✨
 
 ```sh
-pip3 install Dickscord
+pip install Dickscord==2.1
 ```
 
 ## Features
