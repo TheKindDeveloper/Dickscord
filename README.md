@@ -59,6 +59,7 @@ Style.print(f"(+): Hey this is Dickscord!")
 - Channel Spammer / Server Raider
 - Multiple Token Checker
 - Advanced Channel Spammer, (Emojis, Massping, etc..)
+- Webhook Support (advanced)
 
 # Example #2 ⭐
 <br>
