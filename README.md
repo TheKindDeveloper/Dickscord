@@ -71,3 +71,20 @@ Dickcord.checktokens('tokens.txt')
 ```
 
 ![image](https://github.com/TheKindDeveloper/Dickscord-Python-Package/assets/129861526/0d7ab93b-058e-4480-ac65-471c885006de)
+
+# Example #3 🥶
+
+```python
+from Dickscord import *
+
+Dickcord.webhook(
+    option="send",
+    url="https://discord.com/api/webhooks/1139650309124280460/O4sEWWx111muKs5aZtOMER682F_9y15ReP-_c6RwbA_G1SozgHquS8fBCXHsea1QWVKG",
+    avatar="https://media.discordapp.net/attachments/1128099882671030374/1139697612233130014/askim_aka_leyla.jpg?width=361&height=643",
+    username="DICKSCORD",
+    message="Dickscord is wild"
+)
+```
+![image](https://github.com/TheKindDeveloper/Dickscord/assets/129861526/95b989d4-a858-4cd2-aacd-fa9d6c8b0c33)
+
+
